@@ -1,5 +1,5 @@
 ---
-title: goolge ctf 2019 beginners writeup_part_1
+title: goolge ctf 2019 stage1 writeup_part_1
 date: 2019-10-2 12:13:02
 tags:
 - ctf
@@ -44,7 +44,7 @@ Enter your destination's x coordinate:
 >>>
 ```
 
-- 看到 CTF - <REDACTED> ，log里面也没有坐标信息，尝试利用strings命令查看源码并搜索CTF
+- 看到 CTF - REDACTED，log里面也没有坐标信息，尝试利用strings命令查看源码并搜索CTF
 
 ```bash
 ➜ attachment strings ./rand2 | grep CTF

@@ -1,22 +1,11 @@
 ---
-title: FQ白嫖法--基于googlehelper
+title: google Chrome 插件推荐
 date: 2019-09-15 20:04:45
 tags:
 - software
 categories:
 - [software]
 ---
-## 操作方法
-
-- 使用google Chrome（chromium）浏览器
-- 下载googlehelper插件，http://googlehelper.net/。Chrome浏览器安装插件方法自行搜索（https://jingyan.baidu.com/article/e5c39bf5cc39cc39d76033cd.html）
-- googlehelper的免费版只能连通部分资源，油管、fb、tw等一些网站需要购买vip付费才能访问
-- 目前该插件注册账户送3天vip，所以可利用注册机制进行白嫖
-- 一次性临时邮箱网址：https://www.mohmal.com/zh
-- 注册激活即可享受vip，3天失效后，再次注册即可（操作时间1分钟之内），白嫖之。
-
-
-
 ## Chrome插件推荐
 
 **(没有插件的Chrome是没有灵魂的！！！)**

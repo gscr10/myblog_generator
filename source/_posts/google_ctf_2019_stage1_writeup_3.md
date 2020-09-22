@@ -1,5 +1,5 @@
 ---
-title: goolge ctf 2019 beginners writeup_part_3
+title: goolge ctf 2019 stage1 writeup_part_3
 date: 2019-10-02 12:54:01
 tags:
 - ctf
