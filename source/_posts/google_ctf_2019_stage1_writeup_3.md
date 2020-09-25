@@ -3,10 +3,8 @@ title: goolge ctf 2019 stage1 writeup_part_3
 date: 2019-10-02 12:54:01
 tags:
 - ctf
-- hacker
 categories:
 - [ctf]
-- [hacker]
 ---
 ## 09 Drive to the target(coding)
 

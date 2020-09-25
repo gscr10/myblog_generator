@@ -3,10 +3,9 @@ title: FLAWS challenge
 date: 2020-09-22 19:25:19
 tags:
 - ctf
-- hacker
+- aws
 categories:
 - [ctf]
-- [hacker]
 ---
 
 【文章首发于《安全客》https://www.anquanke.com/post/id/201460】

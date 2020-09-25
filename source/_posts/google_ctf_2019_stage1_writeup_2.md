@@ -3,10 +3,8 @@ title: goolge ctf 2019 stage1 writeup_part_2
 date: 2019-10-02 12:45:43
 tags:
 - ctf
-- hacker
 categories:
 - [ctf]
-- [hacker]
 ---
 
 ## 05 STOP GAN(pwn)

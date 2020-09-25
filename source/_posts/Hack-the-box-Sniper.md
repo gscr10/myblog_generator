@@ -2,11 +2,9 @@
 title: 'Hack the box: Sniper'
 date: 2020-09-22 20:35:57
 tags:
-- hacker
-- writeup
+- htb
 categories:
-- [hacker]
-- [writeup]
+- [htb]
 ---
 
 ![](https://p3.ssl.qhimg.com/t014580c5bb32d4ece8.png)

@@ -3,10 +3,8 @@ title: goolge ctf 2019 stage1 writeup_part_1
 date: 2019-10-2 12:13:02
 tags:
 - ctf
-- hacker
 categories:
 - [ctf]
-- [hacker]
 ---
 
 ## 01 Enter Space-Time Coordinates(misc)

@@ -1,12 +1,10 @@
 ---
-title: 'Hack_the_box: Forset'
+title: 'Hack the box: Forset'
 date: 2020-09-22 20:42:48
 tags:
-- hacker
-- writeup
+- htb
 categories:
-- [hacker]
-- [writeup]
+- [htb]
 ---
 
 ![](https://p0.ssl.qhimg.com/t01040622b2d71e783a.png)
