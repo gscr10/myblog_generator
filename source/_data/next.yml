@@ -138,8 +138,8 @@ menu_settings:
 
 sidebar:
   # Sidebar Position.
-  position: left
-  #position: right
+  # position: left
+  position: right
 
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
@@ -234,9 +234,9 @@ chat:
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true
 
-auto_excerpt:
-  enable: true
-  length: 150
+# auto_excerpt:
+#   enable: true
+#   length: 150
 
 # Read more button
 # If true, the read more button will be displayed in excerpt section.
@@ -305,7 +305,7 @@ post_edit:
 
 # Show previous post and next post in post footer if exists
 # Available values: left | right | false
-post_navigation: left
+post_navigation: right
 
 
 # ---------------------------------------------------------------
@@ -426,13 +426,13 @@ font:
   global:
     external: true
     family: Lato
-    size:
+    size: 
 
   # Font settings for site title (.site-title).
   title:
     external: true
     family:
-    size:
+    size: 
 
   # Font settings for headlines (<h1> to <h6>).
   headings:
