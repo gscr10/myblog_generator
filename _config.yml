@@ -74,7 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: next
+#theme: next
+theme: fluid 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -103,8 +104,9 @@ live2d:
   react:
     opacity: 0.7
 
-excerpt:
-  depth: 2
-  excerpt_excludes: []
-  more_excludes: []
-  hideWholePostExcerpts: true
+# excerpt:
+#   depth: 4
+#   excerpt_excludes: [img]
+#   more_excludes: [h2]
+#   hideWholePostExcerpts: true
+
